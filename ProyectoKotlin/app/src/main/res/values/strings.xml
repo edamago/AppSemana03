@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppProyectoKotlin</string>
+    <string name="tituloimc">CALCULADORA IMC</string>
+    <string name="tituloimc01">CALCULADORA IMC</string>
+    <string name="btnCalcular">CALCULAR</string>
+    <string name="textettalla">Ingrese su talla (Cm)</string>
+    <string name="textetpeso">Ingrese su peso (Kg)</string>
+    <string name="textettitulo">PROMEDIO IDAT</string>
+    <string name="txtingresenota">INGRESE SU NOTA</string>
+</resources>
